@@ -1,0 +1,49 @@
+{
+  "labels": {
+    "title": {
+      "en": "OpenGraph",
+      "es": "OpenGraph"
+    },
+    "subtitle": {
+      "en": "Open Graph tags that are you using in your site",
+      "es": "Etiquetas Open Graph que estas usando en tu sitio"
+    },
+    "meta:title": {
+      "en": "Title",
+      "es": "Titulo"
+    },
+    "meta:description": {
+      "en": "Description",
+      "es": "Descripción"
+    },
+    "meta:image": {
+      "en": "Image",
+      "es": "Imagen"
+    }
+  },
+  "validation": {
+    "meta:title": {
+      "min": 20,
+      "max": 60,
+      "recomendation": {
+        "en": "<b>Recommended length:</b> 60 characters",
+        "es": "<b>Longitud recomendada:</b> 60 carácteres"
+      }
+    },
+    "meta:description": {
+      "min": 150,
+      "max": 160,
+      "recomendation": {
+        "en": "<b>Recommended length:</b> 150 - 160 characters",
+        "es": "<b>Longitud recomendada:</b> 150 - 160 carácteres"
+      }
+    },
+    "meta:image": {
+      "min": 0,
+      "recomendation": {
+        "en": "<b>Recommended dimension:</b> 1200 x 630 pixels",
+        "es": "<b>Tamaño recomendado:</b> 1200 x 630 pixeles"
+      }
+    }
+  }
+}

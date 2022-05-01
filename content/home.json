@@ -1,0 +1,105 @@
+{
+  "seo": {
+    "image": "https://opengraph.dev/banner.png",
+    "title": {
+      "en": "OpenGraph - Preview Social Media Share and Generate Metatags",
+      "es": "OpenGraph - Previsualizador de metatags en las redes sociales"
+    },
+    "description": {
+      "en": "OpenGraph Preview and generate open graph meta tags for any of your websites.",
+      "es": "OpenGraph es el camino facil de probar y previsualizar tus metagas de tu sitio o aplicación web."
+    }
+  },
+  "head": {
+    "title": {
+      "en": "OpenGraph - Preview Social Media Share and Generate Metatags",
+      "es": "OpenGraph - Previsualizador de metatags en las redes sociales"
+    },
+    "description": {
+      "en": "OpenGraph Preview and generate open graph meta tags for any of your websites.",
+      "es": "OpenGraph es el camino facil de probar y previsualizar tus metagas de tu sitio o aplicación web."
+    }
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1649&q=80",
+    "title": {
+      "en": "<span class='block text-indigo-600 xl:inline'>Generate</span> and <span class='block text-indigo-600 xl:inline'>Preview</span> Open Graph <span class='block text-indigo-600 xl:inline'>Meta Tags</span> ",
+      "es": "Herramienta para <span class='block text-indigo-600 xl:inline'>Previsualizar</span> y <span class='block text-indigo-600 xl:inline'>Generar</span> Etiquetas <span class='block text-indigo-600 xl:inline'> Open Graph</span> para tu aplicación o sitio web "
+    },
+    "subtitle": {
+      "en": "OpenGraph.dev allow to preview and generate meta tags in one place with one click",
+      "es": "Prueba nuestro previsualizador y generador de etiquetas Open Graph todo en un solo lugar."
+    },
+    "placeholder": {
+      "en": "URL to check",
+      "es": "Página web"
+    },
+    "button": {
+      "en": "Start",
+      "es": "Iniciar"
+    },
+    "example": {
+      "label": {
+        "en": "Try:",
+        "es": "Ejemplo:"
+      },
+      "url": "https://opengraph.dev"
+    }
+  },
+  "features": {
+    "title": {
+      "en": "We handle everything for you",
+      "es": "Analizamos tu sitio"
+    },
+    "subtitle": {
+      "en": "Fast and secure, we crawle your site to preview all opengraph in your meta tags",
+      "es": "Rapido y seguro, escaneamos tu página web y previsualizamos todas las etiquetas open graph que tengas"
+    },
+    "items": [
+      {
+        "title": {
+          "en": "What is an OGP?",
+          "es": "¿Que es OGP?"
+        },
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='none' viewBox='0 0 24 24' stroke='currentColor'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z' /></svg>",
+        "description": {
+          "en": "OGP stands for Open Graph Protocol, which is a defined system to convey the contents of webpages on SNS. By setting Open Graph properly, a specified image/ title/ description is displayed when a web content is shared.",
+          "es": "OGP es un estandar que permite que otras plataformas puedan leer tu contenido facilmente, usando etiquetas definidas para el titulo, la descripción, el tipo de contenido e imagenes"
+        }
+      },
+      {
+        "title": {
+          "en": "What is the image size for Open Graph?",
+          "es": "¿Cuál es el tamaño ideal para usar en el OG de la imagén?"
+        },
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='none' viewBox='0 0 24 24' stroke='currentColor'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z' /></svg>",
+        "description": {
+          "en": "Use images that are at least 1080 pixels in width for best display on high resolution devices. Facebook recommends using 1:1 images in your ad creatives for better performance with image link ads.",
+          "es": "Usa imagenes de 1080px o superior, esto ayuda a mejorar la visualización en dispositivos con alta resolución."
+        }
+      },
+      {
+        "title": {
+          "en": "How to add OG tags in my site?",
+          "es": "¿Cómo puedo agregar las etiquetas OG en mi sitio?"
+        },
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='none' viewBox='0 0 24 24' stroke='currentColor'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z' /></svg>",
+        "description": {
+          "en": "Use a free tool such as OpenGraph.dev to generate opengraph tags for your website, and copy the meta tags into the <head> section tag.",
+          "es": "Usa una herramienta gratuita como OpenGraph.dev para generar tus etiquetas y agregalas en la sección <head> de su codigo HTML."
+        }
+      },
+      {
+        "title": {
+          "en": "Why are Open Graph tags important?",
+          "es": "¿Por qué es tan importante el uso de Open Graph?"
+        },
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='none' viewBox='0 0 24 24' stroke='currentColor'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z' /></svg>",
+        "description": {
+          "en": "People are arguably more likely to see and click shared content with optimized OG tags, which means more social media traffic to your website. They make content more eye-catching in social media feeds",
+          "es": "Al momento que un usuario de tu sitio o aplicación web comparta el contenido en una red social, esta podra leer tus etquetas y mostrar de forma visual y llamativo el contenido compartido por el usuario"
+        }
+      }
+    ]
+  }
+}

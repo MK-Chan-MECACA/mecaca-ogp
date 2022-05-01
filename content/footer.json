@@ -1,0 +1,59 @@
+{
+  "footer": {
+    "copyright": "© 2021 by JODACAME",
+    "title": {
+      "en": "<b>O</b>pen<b>G</b>raph.dev",
+      "es": "<b>O</b>pen<b>G</b>raph.dev"
+    },
+    "description2": {
+      "en": "Generate and Preview Open Graph Meta Tags",
+      "es": "Generador y previsualizador de Open Graph"
+    },
+    "blocks": [
+      {
+        "title": {
+          "en": "More Pages",
+          "es": "Más Páginas"
+        },
+        "pages": {
+          "about": {
+            "en": "About us",
+            "es": "Acerca de"
+          }
+        }
+      },
+      {
+        "title": {
+          "en": "More Tools",
+          "es": "Más herramientas"
+        },
+        "links": [
+          {
+            "label": {
+              "en": "Google Pagespeed",
+              "es": "Google Pagespeed"
+            },
+            "link": "https://developers.google.com/speed/pagespeed/insights/",
+            "isExternal": true
+          },
+          {
+            "label": {
+              "en": "Facebook Sharing Debugger",
+              "es": "Facebook Sharing Debugger"
+            },
+            "link": "https://developers.facebook.com/tools/debug/",
+            "isExternal": true
+          },
+          {
+            "label": {
+              "en": "Twitter Card Validator",
+              "es": "Twitter Card Validador"
+            },
+            "link": "https://cards-dev.twitter.com/validator",
+            "isExternal": true
+          }
+        ]
+      }
+    ]
+  }
+}
