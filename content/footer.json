@@ -1,45 +1,45 @@
 {
   "footer": {
-    "copyright": "© 2021 by JODACAME",
+    "copyright": "Copyright © 2022 by MECACA",
     "title": {
-      "en": "<b>O</b>pen<b>G</b>raph.dev",
-      "es": "<b>O</b>pen<b>G</b>raph.dev"
+      "en": "MECACA / OGP",
+      "ms": "MECACA / OGP"
     },
     "description2": {
       "en": "Generate and Preview Open Graph Meta Tags",
-      "es": "Generador y previsualizador de Open Graph"
+      "ms": "Jana dan Pratonton Tag Meta Graf Terbuka"
     },
     "blocks": [
       {
         "title": {
           "en": "More Pages",
-          "es": "Más Páginas"
+          "ms": "Lagi Halaman"
         },
         "pages": {
           "about": {
             "en": "About us",
-            "es": "Acerca de"
+            "ms": "Tentang kami"
           }
         }
       },
       {
         "title": {
           "en": "More Tools",
-          "es": "Más herramientas"
+          "ms": "Lebih Banyak Alat"
         },
         "links": [
           {
             "label": {
-              "en": "Google Pagespeed",
-              "es": "Google Pagespeed"
+              "en": "MECACA / TOOLS",
+              "ms": "MECACA / TOOLS"
             },
-            "link": "https://developers.google.com/speed/pagespeed/insights/",
+            "link": "https://tools.mecaca.com",
             "isExternal": true
           },
           {
             "label": {
               "en": "Facebook Sharing Debugger",
-              "es": "Facebook Sharing Debugger"
+              "ms": "Facebook Sharing Debugger"
             },
             "link": "https://developers.facebook.com/tools/debug/",
             "isExternal": true
@@ -47,9 +47,17 @@
           {
             "label": {
               "en": "Twitter Card Validator",
-              "es": "Twitter Card Validador"
+              "ms": "Twitter Card Validador"
             },
             "link": "https://cards-dev.twitter.com/validator",
+            "isExternal": true
+          },
+          {
+            "label": {
+              "en": "Google Pagespeed",
+              "ms": "Google Pagespeed"
+            },
+            "link": "https://developers.google.com/speed/pagespeed/insights/",
             "isExternal": true
           }
         ]

@@ -21,7 +21,8 @@
               <span
                 v-html="$lang(footer, 'description')"
                 class="my-2 text-white"
-              ></span>
+              >
+              </span>
               <span class="font-bold text-black mb-2">
                 <form ref="langs" method="GET">
                   <strong class="text-white mr-4">Language</strong>
