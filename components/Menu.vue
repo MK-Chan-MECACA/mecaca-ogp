@@ -101,7 +101,7 @@
           <div>
             <img
               class="h-8 w-auto"
-              src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+              src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2f8e03e4-870e-4aac-b904-f0e7deaea48e/mecaca-145-41.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220506%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220506T142253Z&X-Amz-Expires=86400&X-Amz-Signature=cd459350aded7b5228fdbf5ba1fd4c1e91fe7c5e1e08dc1b27b8f7e76f845f72&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22mecaca-145-41.png%22&x-id=GetObject"
               alt=""
             />
           </div>
